@@ -7,7 +7,7 @@ This code requires a C++ compiler and the iostream and cmath libraries.
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/K0sm4/3D_Point_Operations.git
+git clone https://github.com/K0sm4/3DPointOperations
 
 ```
 2. Compile the code:
